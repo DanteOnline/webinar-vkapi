@@ -1,0 +1,23 @@
+Metadata-Version: 2.0
+Name: vk
+Version: 2.0.2
+Summary: vk.com API Python wrapper
+Home-page: https://github.com/dimka665/vk
+Author: Dmitry Voronin
+Author-email: dimka665@gmail.com
+License: MIT License
+Keywords: vk.com api vk wrappper
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Dist: requests (<3.0,>=2.8)
+
+UNKNOWN
+
+
